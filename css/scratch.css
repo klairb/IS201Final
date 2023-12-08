@@ -1,0 +1,35 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.styled-div {
+    background-color: #ffd700; /* gold */
+    padding: 10px;
+    margin-top: 20px;
+    font-family: cursive;
+}
+
+.another-styled-div {
+    background-color: #90ee90; /* lightgreen */
+    padding: 10px;
+    margin-top: 20px;
+    font-family:monospace;
+}
+
+.third-styled-div {
+    background-color: #87ceeb; /* skyblue */
+    padding: 10px;
+    margin-top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
